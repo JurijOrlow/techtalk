@@ -1,4 +1,4 @@
 ---
-title: Narzekanie czas zacząć!
+title: TechTalk by Jurij Orlow
 ---
 
