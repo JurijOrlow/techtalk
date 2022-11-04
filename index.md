@@ -1,4 +1,4 @@
 ---
-title: TechTalk by Jurij Orlow
+title: Strona główna
 ---
 
