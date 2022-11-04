@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+title: Narzekanie czas zacząć!
 ---
 
