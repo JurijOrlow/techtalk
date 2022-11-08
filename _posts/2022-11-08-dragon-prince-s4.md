@@ -1,6 +1,6 @@
 ---
 title: "4 sezon Smoczego Księcia, czyli jak zmienić świetną historię w meh"
-date: 2022-11-06
+date: 2022-11-08
 ---
 ## Zaznaczę to od razu - nie jestem wielkim fanem animacji, szczególnie animacji 3D
 Mimo to jednak kiedy na początku przysiadłem aby obejrzeć Smoczego Księcia, wsiąkłem jak w ruchome piaski. Wyskoczył mi na Netflixie przy okazji premiery 3 sezonu, z tego co pamiętam był chyba wtedy na drugim lub trzecim miejscu najchętniej oglądanych. A skoro nie miałem za bardzo nic do obejrzenia, włączyłem sobie to.
