@@ -130,4 +130,4 @@ Maszyny wirtualne nie przekazują karty graficznej, nawet zintegrowanej. Rendero
 
 No to trochę się rozpisałem. 2707 słów do tego miejsca. I wiem, że pewnie zagorzałych fanów Windowsa nie przekonam nawet do wypróbowania Linuxa. Ale może ktoś, kto się czaił jak szpak na jebanie na tego Liunucha stwierdzi, że warto może jednak dać mu szansę?
 
-Pozdrawiam, dzięki za lekturę i zapraszam jak zwykle do komentowania.
+Pozdrawiam, dzięki za lekturę i zapraszam jak zwykle do komentowania!
